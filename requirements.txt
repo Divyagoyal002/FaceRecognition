@@ -1,11 +1,9 @@
 torch
 torchvision
 numpy
-opencv-python
+opencv-python-headless
 mtcnn
-tensorflow
-keras
+facenet-pytorch
 scipy
 streamlit
 pillow
-opencv-python-headless
